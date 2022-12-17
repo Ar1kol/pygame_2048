@@ -23,14 +23,13 @@
   </ol>
 </details>
 
-<!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
-The game 2048 is built using the Python Pygame module. The program has been converted to .exe
+The game 2048 is built using the Python Pygame module. The program has been converted to .exe, which allows to download the game to a computer and start playing.
 
-When the game window is closed, an auto save is made and it is possible to continue from the point at which the game was interrupted.
+Game results are stored in the database. When the game window is closed, an auto save is made and it is possible to continue from the point at which the game was interrupted.
 
-<!-- ROADMAP-->
 ## Roadmap
 
 ### Built with
